@@ -1,5 +1,7 @@
 # ![AWS](aws-logo.png) S3 Trigger
 
+[![CI](https://github.com/figurate/terraform-aws-s3-trigger/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-aws-s3-trigger/actions/workflows/main.yml)
+
 Purpose: Templates for S3 object triggers.
 
 ## Requirements
